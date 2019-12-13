@@ -14,6 +14,9 @@ public class Sample {
 	public void empSal() {
 		System.out.println("emp sal is 45000");
 	}
+	public void empAddress() {
+		System.out.println("emp address is chromepet");
+	}
 
 	
 	

@@ -8,6 +8,10 @@ public class Sample {
 		System.out.println("empId is 123");
 
 	}
+	public void empPhn() {
+		System.out.println("emp phn num is 958794563");
+	}
+
 	
 	
 	
